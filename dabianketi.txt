@@ -80,3 +80,18 @@ AC支持工业级CPE的管理
 课题材料：
 http://icf.imfirewall.com/NAT_Detector
 https://www.h3c.com/cn/d_202009/1334190_30005_0.htm
+
+华为: https://support.huawei.com/hedex/hdx.do?docid=EDOC1100150593&lang=zh
+深信服：http://net.it168.com/a2016/0509/2631/000002631390.shtml（官网资料要账号才能看，我没有账号，这是其他网站上的分析）
+华三: https://www.h3c.com/cn/d_202009/1334190_30005_0.htm
+
+该功能调研下主流的厂商：
+华三H3C
+深信服
+华为
+
+这些厂商的产品说明配置，都有些相关的介绍和配置说明等，可以去看看。
+
+国庆有空，自己多找点资料进行了解。以及常用的共享检测技术的了解。
+
+
